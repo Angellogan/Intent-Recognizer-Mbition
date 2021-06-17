@@ -1,0 +1,3 @@
+/home/angellogan/CV_CPP_prac/projects_folder/Intent_Recognizer_Mbition/build/CMakeFiles/rebuild_cache.dir
+/home/angellogan/CV_CPP_prac/projects_folder/Intent_Recognizer_Mbition/build/CMakeFiles/edit_cache.dir
+/home/angellogan/CV_CPP_prac/projects_folder/Intent_Recognizer_Mbition/build/CMakeFiles/Intent_Recognizer_Mbition.dir

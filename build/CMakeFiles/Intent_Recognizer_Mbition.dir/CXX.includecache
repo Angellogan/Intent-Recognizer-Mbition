@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/angellogan/CV_CPP_prac/projects_folder/Intent_Recognizer_Mbition/main.cpp
+iostream
+-
+fstream
+-
+cstring
+-
+algorithm
+-
+string
+-
+unordered_map
+-
+thread
+-
+regex
+-
+mutex
+-
+set
+-
+boost/algorithm/string.hpp
+-
+
